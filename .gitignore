@@ -1,0 +1,50 @@
+
+bench
+#configs
+experiments
+input
+log
+dataset
+*.sqlite
+*.nsys-rep
+
+ __pycache__/
+ *.pyc
+# Prerequisites
+*.d
+.ipynb_checkpoints/
+utils/.ipynb_checkpoints/
+.DS_Store
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+
+*.pyc

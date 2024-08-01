@@ -1,0 +1,21 @@
+REORDERING_STRATAGIES = [
+    "rand-0",
+    "rand-1",
+    "rand-2",
+    "metis-16",
+    "metis-128",
+    "metis-1024",
+    "metis-8192",
+    "metis-65536",
+    "rabbit",
+    "DegSort",
+    "dfs",
+    "gorder",
+    "HubCluster",
+    "HubSort",
+    "ldg",
+    "rcm",
+    "slashburn",
+    "minla",
+    "bfs"
+]
